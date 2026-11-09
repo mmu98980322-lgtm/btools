@@ -37,19 +37,19 @@ description: 一键提取 Solana 链上 Pump 等平台积累的创作者收益�
 
 **1.打开 B.Tools**[**创作者奖励功能**](https://b.tools/solana/batch-creator-fees)**页面**
 
-<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
 **2.支持单钱包查询、多钱包批量查询**
 
-<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
 
 **3.选择查询钱包地址（支持当前钱包/手动输入/钱包助手输入）**
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
 **4.查看账户列表信息**
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **链上数据可能有延迟，领取成功后请稍等片刻再查询核对。**
@@ -57,11 +57,11 @@ description: 一键提取 Solana 链上 Pump 等平台积累的创作者收益�
 
 **5.查看领取设置并输入Jito小费**
 
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
 **6.点击一键领取等待任务完成**
 
-<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

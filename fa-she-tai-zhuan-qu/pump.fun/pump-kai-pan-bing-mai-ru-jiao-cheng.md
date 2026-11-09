@@ -26,33 +26,33 @@
 
 **图文教程：**
 
-**1.打开B.Tools**[**Pump开盘并买入教程**](https://b.tools/solana/pump)**页面先连接钱包**
+**1.打开B.Tools**[**Pump**](https://b.tools/solana/pump)**页面先连接钱包**
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
 **2.输入Token名称、符号**<mark style="color:$danger;">**（\*必填）**</mark>
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
 **3.填写描述、LOGO图片、社交媒体信息（非\*选填）**
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
 **4.选择募集币种SOL/USDC/股票，点击下一步**
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
 **5.设置创作者钱包信息，设定Jito 小费（创作者钱包最少有0.1 SOL，Pump官方收取0.02 SOL）**
 
-<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 
 **6.设置捆绑钱包信息，最大支持7个钱包，开盘最先买入**
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
 
 **7.点击开始创建并买入**
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

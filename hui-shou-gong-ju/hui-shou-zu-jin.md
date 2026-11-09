@@ -41,27 +41,27 @@ description: 把空代币账户里锁定的 SOL 领回来
 
 **1.打开 B.Tools**[**回收租金功能**](https://b.tools/solana/sol-collect)**页面**
 
-<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
 
 **2.支持单钱包查询、多钱包批量查询**
 
-<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
 **3.选择查询钱包地址（支持当前钱包/手动输入/钱包助手输入）**
 
-<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
 
 **4.点击查询空代币账户**
 
-<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
 **5.选择Jito小费，设置Gas费代付设置（暂未实现）**
 
-<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
 **6.点击一键领取等待任务完成**
 
-<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

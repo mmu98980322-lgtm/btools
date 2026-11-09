@@ -36,23 +36,23 @@ description: 一键处理钱包代币持仓，简化卖出流程，高效完成�
 
 **1.打开 B.Tools**[**钱包清仓**](https://b.tools/solana/wallet-liquidate)**页面**
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 
 **2.导入钱包地址或通过钱包助手导入钱包，可点击查询余额**
 
-<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
 **3.选择归集目标地址（当前钱包/手动输入/钱包助手）**
 
-<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
 **4.输入Jito小费或选择普通**
 
-<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
 
 **5.再次确认归集钱包地址，点击开始清仓等待任务完成**
 
-<figure><img src="../.gitbook/assets/d3dffaa5-ec03-4bcd-b772-3a6676078d47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -62,7 +62,7 @@ description: 一键处理钱包代币持仓，简化卖出流程，高效完成�
 
 B.Tools社群
 
-* 官网：[https://b.tools/](https://b.tools/solana/features)
+* 官网：[https://B.Tools/](https://b.tools/solana/features)
 * X/Twitter：[https://x.com/BdotTools](https://x.com/BdotTools)
 * Telegram：[https://t.me/BTools\_Official](https://t.me/BTools_Official)
 

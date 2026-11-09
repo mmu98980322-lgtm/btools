@@ -24,25 +24,25 @@
 
 **图文教程：**
 
-**1.打开B.Tools**[**Pump开盘教程**](https://b.tools/solana/pump)**页面先连接钱包**
+**1.打开B.Tools**[**Pump**](https://b.tools/solana/pump)**页面先连接钱包**
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
 **2.输入Token名称、符号**<mark style="color:$danger;">**（\*必填）**</mark>
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
 
 **3.填写描述、LOGO图片、社交媒体信息（非\*选填）**
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
 
 **4.选择募集币种SOL/USDC/股票，点击下一步**
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
 
-**5.填写买入设置并设置Jito 小费点击开始创建完成 Pump 开盘**
+**5.选择普通模式，填写买入设置并设置Jito 小费点击开始创建完成 Pump 开盘**
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
