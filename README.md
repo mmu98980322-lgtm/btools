@@ -53,3 +53,17 @@ B.Tools 的设计方向并不局限于单一网络，而是逐步构建面向多
 ## B.Tools 希望成为
 
 > **简化批量交易操作（跟踪、分析、管理）——更安全、更高效**
+
+***
+
+**市值工具、钱包管理、转账工具——支持多条公链，私钥本地签名，打开即用**
+
+**B.Tools —— 让 Web3 操作更简单。**
+
+B.Tools社群
+
+* 官网：[https://b.tools/](https://b.tools/solana/features)
+* X/Twitter：[https://x.com/BdotTools](https://x.com/BdotTools)
+* Telegram：[https://t.me/BTools\_Official](https://t.me/BTools_Official)
+
+<mark style="color:$primary;">B.Tools</mark>_<mark style="color:$primary;">保留根据实际情况随时修改、调整或取消相关公告及服务内容的权利，恕不另行通知。以上信息仅供参考，不构成任何投资或交易建议。</mark>_<mark style="color:$primary;">B.Tools</mark>_<mark style="color:$primary;">不对平台相关虚拟资产、项目或产品作任何推荐或收益保证。虚拟资产价格波动较大，参与相关交易及链上活动存在较高风险，请充分了解相关风险并谨慎决策。</mark>_
