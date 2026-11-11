@@ -1,6 +1,6 @@
 # Table of contents
 
-* [前往APP ](https://b.tools/solana/features)
+* [前往Web](https://b.tools/solana/features)
 * [B.Tools｜Solana 一站式工具](README.md)
 * [工作台](gong-zuo-tai/README.md)
   * [工作台（VIP）](gong-zuo-tai/gong-zuo-tai-vip.md)
